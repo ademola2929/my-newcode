@@ -1,0 +1,2 @@
+# my-newcode
+Learning git
